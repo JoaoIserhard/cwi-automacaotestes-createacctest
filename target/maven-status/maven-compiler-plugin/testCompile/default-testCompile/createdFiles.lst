@@ -1,0 +1,12 @@
+elementMapper\createAnAccountPageElementMapper.class
+elementMapper\MyAccountPageElementMapper.class
+elementMapper\LoginPageElementMapper.class
+elementMapper\HomePageElementMapper.class
+pageObject\MyAccountPage.class
+utils\Browser.class
+utils\Utils.class
+tests\SetupTest.class
+pageObject\createAnAccountPage.class
+pageObject\HomePage.class
+pageObject\LoginPage.class
+tests\BaseTests.class
